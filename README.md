@@ -18,3 +18,4 @@ well-optimized (or optimized at all)!
 | 012-018       | Intro Challenges 1          |
 | 019-024       | Alice Creations 01          |
 | 025-031       | Alice Creations 02          |
+| 032-038       | Alice Creations 03          |
