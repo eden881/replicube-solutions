@@ -1,0 +1,11 @@
+# Replicube Solutions
+
+My personal collection of solutions for the awesome game
+[Replicube](https://store.steampowered.com/app/3401490/Replicube/). In this game
+you write code to recreate 3D objects made out of voxels.
+
+This is still very much a work in progress. Sometimes I also include some
+alternate solutions if I find them neat.
+
+Feel free to do whatever you want with this. However don't expect things to be
+well-optimized (or optimized at all)!
