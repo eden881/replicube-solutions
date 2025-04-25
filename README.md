@@ -9,3 +9,10 @@ alternate solutions if I find them neat.
 
 Feel free to do whatever you want with this. However don't expect things to be
 well-optimized (or optimized at all)!
+
+## Table of Contents
+
+| Level numbers | In-game chapter             |
+| ------------- | --------------------------- |
+| 001-011       | Replicube Tutorial Projects |
+| 012-018       | Intro Challenges 1          |
