@@ -16,3 +16,4 @@ well-optimized (or optimized at all)!
 | ------------- | --------------------------- |
 | 001-011       | Replicube Tutorial Projects |
 | 012-018       | Intro Challenges 1          |
+| 019-024       | Alice Creations 01          |
