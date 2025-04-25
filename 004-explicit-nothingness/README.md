@@ -3,3 +3,5 @@
 | Code size | Cycles / voxel |
 | --------- | -------------- |
 | 14        | 4.92           |
+
+![](explicit-nothingness-0.png)

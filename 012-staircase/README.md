@@ -3,3 +3,5 @@
 | Code size | Cycles / voxel |
 | --------- | -------------- |
 | 9         | 4.14           |
+
+![](staircase-0.png)
