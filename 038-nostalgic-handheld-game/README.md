@@ -2,6 +2,6 @@
 
 | Code size | Cycles / voxel |
 | --------- | -------------- |
-| 116       | 21.00          |
+| 114       | 20.845         |
 
 ![](nostalgic-handheld-game-0.png)
