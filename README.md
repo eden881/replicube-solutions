@@ -24,3 +24,4 @@ well-optimized (or optimized at all)!
 | 052-058       | GAME IDEAS                  |
 | 059-064       | MORE GAME IDEAS             |
 | 065-071       | Circles From Cubes          |
+| 072-077       | Beautiful Geometry 1        |
